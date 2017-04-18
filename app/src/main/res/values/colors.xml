@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="MyWhite">#FFFFF0F5</color>
+    <color name="MyDarkRed">#FF961F21</color>
+    <color name="MyActiveColor">#F26C4F</color>
+    <color name="MyGray">#50696969</color>
+    <!-- 纳瓦白/土著白 -->
+    <color name="navajo_white">#FFDEAD</color>
+    <color name="black">#000000</color>
+    <color name="gray">#696969</color>
+</resources>

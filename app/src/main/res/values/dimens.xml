@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">6dp</dimen>
+    <dimen name="activity_vertical_margin">6dp</dimen>
+	<dimen name="font_size_title">20sp</dimen>
+	<dimen name="font_size_normal">18sp</dimen>
+	<dimen name="font_size_big">40sp</dimen>
+	<dimen name="font_size_biger">60sp</dimen>
+	<dimen name="font_size_center">15sp</dimen>
+	<dimen name="font_size_small">13sp</dimen>
+	<dimen name="font_size_cursor">12sp</dimen>
+</resources>
